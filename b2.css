@@ -1,0 +1,31 @@
+body{
+	background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7amqZiwYFX1XRX25jNrdRogHY78Odx1MtI1oqOirlWNM5ZY9pzI6A5k5ncKsfKWHBIJk&usqp=CAU");
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+
+h2{text-align: center;
+	color: whitesmoke;
+}
+h1{color: ghostwhite;
+	text-align: center;
+
+}
+p{text-align: center;
+font-size: larger;
+color: floralwhite;
+}
+.sai{
+	display: grid;
+	grid-template-columns: 500px 500px;
+	column-gap: 290px;
+
+}
+.man{
+	border: 5px groove grey;
+
+}
+img{
+	height:490px;
+	width: 490px;
+}

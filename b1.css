@@ -1,0 +1,25 @@
+h1{padding: 50px;
+    color: #f5f5f5;
+	text-align:center;
+	text-transform: uppercase;
+
+}
+h2{
+	text-align: center;
+    text-decoration-line: underline;
+	color: black;
+
+
+}
+body{
+	background-image: url("https://media.istockphoto.com/vectors/blue-stage-arena-lighting-background-with-spotlight-vector-id1060735998?k=20&m=1060735998&s=612x612&w=0&h=pLNh1_Y3q7S83UStIAT0tc55wCUV0qKXr1-z7isjPM4=");
+	background-repeat: no-repeat;
+	background-size: cover;
+}	
+aside{padding-top: 100px;
+	color: ghostwhite;
+	font-style: italic;
+	font-size: 40px;
+	padding-left: 10px;
+	text-align:center;
+}
