@@ -421,7 +421,9 @@ nav .fa-solid{
 		font-size: 14px;
 
 	}
-	
+	.service-list{
+		display: flex;
+	}
 	.robo ul{
 		font-size: 18px;
 		padding-right: 8px;
