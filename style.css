@@ -246,9 +246,9 @@ nav ul li a:hover::after{
 .robo li{
 	display: inline-block;
 	list-style: none;
-    margin: 10px 20px;
-    color: #b54769;
-    padding: 35px 25px;
+    	margin: 10px 20px;
+    	color: #b54769;
+    	padding: 35px 25px;
 }
 .service-list{
 	display: flex;
@@ -420,10 +420,15 @@ nav .fa-solid{
 	.about-col-2{
 		font-size: 14px;
 	.robo li{
-		padding: 0px 10px;
+		padding: 16px 12px;
 		font-size: 20px;
 		font-weight: 400;
 
+	}
+	.robo{
+		padding: 10px;
+		margin: 5px 10px;
+		fontsize: 15px;
 	}
 	
 	.robo i{
