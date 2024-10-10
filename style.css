@@ -419,8 +419,8 @@ nav .fa-solid{
 	}
 	.about-col-2{
 		font-size: 14px;
-	.robo li{
-		padding: 16px 12px;
+	.robo ul li{
+		padding: 8px 10px;
 		font-size: 12px;
 		font-weight: 400;
 
@@ -428,14 +428,8 @@ nav .fa-solid{
 	.robo{
 		padding: 5px;
 		margin: 5px 10px;
-		fontsize: 15px;
+		fontsize: 12px;
 	}
-	
-	.robo i{
-		font-size: 12px;
-		
-	}
-	
 	
 	
 	.tab-links{
