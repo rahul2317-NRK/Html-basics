@@ -422,7 +422,6 @@ nav .fa-solid{
 .robo li{
 		padding: 10px 0;
 		font-size: 15px;
-		margin-right: 2px;
 
 	}
 	.robo{
@@ -430,10 +429,7 @@ nav .fa-solid{
 		padding-right:2px;
 	}
 	.robo i{
-		font-size: 20px;
-	}
-	.service-list{
-		margin-bottom: 20px;
+		font-size: 18px;
 	}
 	.service-list ul li{
 		padding-right: 10px;
@@ -453,11 +449,6 @@ nav .fa-solid{
 		padding-bottom: 5px;
 		overflow: hidden;
 	}
-		.social-icon a:focus {
-  outline: none;
-  box-shadow: none; /* Prevent box-shadow on focus */
-}
-
 	
 	.contact-left p i{
 	margin-right: 5px;
