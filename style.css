@@ -20,12 +20,12 @@ body{
 
 nav{
 	width: 100%;
-    position: fixed;
-    text-align: center;
+    	position: fixed;
+    	text-align: center;
 	align-items: center;
 	background-color: #E5E7E9;
 	padding-top: 0px;
-    display: flex;
+    	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
 	z-index: 2;
@@ -73,7 +73,7 @@ nav ul li a:hover::after{
 	color: #5D6D7E;
 	text-decoration: none;
 	font-family: "DM serif Text", serif;
-  font-style: italic;
+  	font-style: italic;
 
 }
 .mini-task {
@@ -386,7 +386,7 @@ nav .fa-solid{
 		padding-left: 20px;
 	}
 	nav ul{
-		background: #98C2DB;
+		background: #E5E7E9;
 		position: fixed;
 		top: 0;
 		right: -200px;
