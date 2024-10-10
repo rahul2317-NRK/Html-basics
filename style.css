@@ -425,9 +425,13 @@ nav .fa-solid{
 		display: flex;
 	}
 	.robo ul{
-		font-size: 18px;
 		padding-right: 8px;
 	}
+	.robo ul li{
+		font-size: 18px;
+		padding: 0px 5px;
+	}
+	
         
 	
 	.tab-links{
@@ -439,6 +443,7 @@ nav .fa-solid{
 	}
 	.social-icon a{
 		padding-right: 20px;
+		font-size: 15px;
 	}
 	.contact-left p i{
 	margin-right: 5px;
