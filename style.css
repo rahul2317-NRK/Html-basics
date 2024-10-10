@@ -419,16 +419,19 @@ nav .fa-solid{
 	}
 	.about-col-2{
 		font-size: 14px;
-	.robo ul{
+	.robo li{
 		padding: 8px 10px;
 		font-size: 12px;
+		display: inline-block;
 
 	}
 	.robo{
 		padding: 5px;
 		margin: 5px 10px;
 	}
-	
+	.service-list{
+		display: flex;
+	}
 	
 	.tab-links{
 		font-size: 16px;
