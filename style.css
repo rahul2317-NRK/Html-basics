@@ -355,7 +355,7 @@ nav .fa-solid{
 	.header-text p span{
 	color: #c73232;
 	font-size: 25px;
-}
+	}
 	.mini-task{
 		flex-basis: 60%;
 		padding-left: 10px;
@@ -391,10 +391,10 @@ nav .fa-solid{
 		top: 0;
 		right: -200px;
 		width: 200px;
-		 height: 100vh;
-		 transition:right 0.5s;
-		 padding-top: 50px;
-		 z-index: 2;
+	 	height: 100vh;
+		transition:right 0.5s;
+		padding-top: 50px;
+		z-index: 2;
 	}
 	nav ul li{
 		display: block;
@@ -420,7 +420,7 @@ nav .fa-solid{
 	.about-col-2{
 		font-size: 14px;
 	.robo li{
-		padding: 10px 5px;
+		padding: 5px 10px;
 		font-size: 20px;
 		margin: 10px;
 		font-weight: 400;
@@ -429,7 +429,7 @@ nav .fa-solid{
 	
 	.robo i{
 		font-size: 20px;
-		padding: 0 15px;
+		padding: 0 10px;
 	}
 	
 	
@@ -449,18 +449,18 @@ nav .fa-solid{
 	}
 	
 	.contact-left p i{
-	margin-right: 5px;
-	font-size: 20px;
-}
-.contact-left p{
-	font-size: 12px;
-}
+		margin-right: 5px;
+		font-size: 20px;
+	}
+	.contact-left p{	
+		font-size: 12px;
+	}
 	.copyright{
 		font-size: 14px;
 		
 	}
         #msg{
-	color: whitesmoke;
-	margin-top: -2px;
-	display: block;
-}
+		color: whitesmoke;
+		margin-top: -2px;
+		display: block;
+	}
