@@ -337,7 +337,7 @@ form.btn2{
 	font-weight: 300;
 	margin-top: 30px;
 }
-/*-----------------------------response-------------------*/
+/*-----------------------------responsive-------------------*/
 
 nav .fa-solid{
 	display: none;
@@ -422,21 +422,18 @@ nav .fa-solid{
 
 	}
 	.robo li{
-		padding: 10px 10px;
+		padding: 10px 15px;
 		font-size: 20px;
 	}
 	.robo{
 		margin: 0 5px;
-		padding-right: 5px;
+		padding: 0px 5px;
 	}
 	.robo ul i{
 		font-size: 20px;
 		padding: 0px 10px;
 	}
-	.service-list{
-		margin-bottom: 20px;
-	}
-	
+
 	.tab-links{
 		font-size: 16px;
 		margin-right: 20px;
