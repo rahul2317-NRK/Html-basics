@@ -421,15 +421,15 @@ nav .fa-solid{
 		font-size: 14px;
 
 	}
-	.robo li{
-		padding: 10px 15px;
-		font-size: 20px;
-	}
 	.robo{
 		margin: 0 5px;
 		padding: 0px 5px;
 	}
-	.robo ul i{
+	.robo li{
+		padding: 10px 15px;
+		font-size: 20px;
+	}
+	.robo ul{
 		font-size: 20px;
 		padding: 0px 10px;
 	}
