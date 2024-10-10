@@ -421,15 +421,23 @@ nav .fa-solid{
 		font-size: 14px;
 
 	}
-	.service-list{
+	.robo{
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 10px;
+	}
+	.robo li{
+		padding: 10px;
+		text-align: left;
 		display: flex;
+		align-items: center;
+		font-size: 16px;
+		
 	}
-	.robo ul{
-		padding-right: 8px;
-	}
-	.robo ul li{
-		font-size: 18px;
-		padding: 0px 5px;
+	
+	.robo li i{
+	
+		margin-right: 10px;
 	}
 	
         
@@ -443,7 +451,9 @@ nav .fa-solid{
 	}
 	.social-icon a{
 		padding-right: 20px;
-		font-size: 15px;
+		font-size: 30px;
+		padding-bottom: 5px;
+		overflow: hidden;
 	}
 	.contact-left p i{
 	margin-right: 5px;
