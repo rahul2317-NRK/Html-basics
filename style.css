@@ -422,16 +422,12 @@ nav .fa-solid{
 
 	}
 	.robo{
-		display: grid;
-		grid-template-columns: repeat(2, 1fr);
-		gap: 10px;
+		padding: 0px 10px;
+		font-size: 16px;
+		
 	}
 	.robo li{
-		padding: 10px;
-		text-align: left;
-		display: flex;
-		align-items: center;
-		font-size: 16px;
+		margin: 5px;
 		
 	}
 	
@@ -455,6 +451,12 @@ nav .fa-solid{
 		padding-bottom: 5px;
 		overflow: hidden;
 	}
+		.social-icon a:focus {
+  outline: none;
+  box-shadow: none; /* Prevent box-shadow on focus */
+}
+
+	
 	.contact-left p i{
 	margin-right: 5px;
 	font-size: 20px;
