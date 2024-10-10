@@ -423,18 +423,18 @@ nav .fa-solid{
 	}
 	.robo li{
 		padding: 10px 10px;
-		font-size: 15px;
+		font-size: 25px;
 		margin-right: 2px;
 
 	}
 	.robo{
 		margin: 0 5px;
-		padding-right:2px;
-		padding-left: 10px;
+		padding-right:20px;
 	}
 	.robo i{
-		font-size: 25px;
+		font-size: 30px;
 	}
+
 	
 	.service-list{
 		margin-bottom: 20px;
