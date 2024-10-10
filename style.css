@@ -420,16 +420,15 @@ nav .fa-solid{
 	.about-col-2{
 		font-size: 14px;
 	.robo li{
-		padding: 5px 10px;
+		padding: 0px 10px;
 		font-size: 20px;
-		margin: 10px;
 		font-weight: 400;
 
 	}
 	
 	.robo i{
 		font-size: 20px;
-		padding: 0 10px;
+		padding: 0 5px;
 	}
 	
 	
